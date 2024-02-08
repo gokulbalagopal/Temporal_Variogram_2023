@@ -1,4 +1,5 @@
 # Temporal_Variogram_2023
+- Objective: To capture the minimal variations in a timeseries with a lower resolution and this lower time resolution or measuring time is given by the variogram.
 ## Created this repo for genrating temporal variograms for timeseries data
 - Variograms can be used in time series analysis with high resolution to find the time period beyond which the correlation stops.
 - This is significant because we can use this idea to resolve the time series to find the most minimal variation within the time series.
